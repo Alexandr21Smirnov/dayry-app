@@ -1,0 +1,7 @@
+.main {
+  padding: 2em 3em;
+  grid-area: main;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3em;
+}
